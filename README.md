@@ -7,12 +7,7 @@
    
 </head>
 <body>
-    <style>
-       sam{
-           color: red;
-           
-           }
-   </style>
+    
     <header>
         <div class="sam">
             <h1>SAMRAT PANDEY</h1>
