@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         GitHub Profile
    <style>
-       h1{
-           color: maroon;
-           margin-left: 40px;
+       sam{
+           color: red;
+           
            }
    </style>
 </head>
 <body>
     <header>
-        <div>
+        <div class="sam">
             <h1>SAMRAT PANDEY</h1>
         </div>
     </header>
