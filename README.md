@@ -8,8 +8,8 @@
 </head>
 <body>
     <header>
-        <div  class="w-[100px]">
-            <img src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/379335714_2602489789900254_6140457956440655305_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeF3gs_AaKuykm6a88BB34V-J8RsRgBx4TsnxGxGAHHhOyExTS407Yn_ZSfm15vNdoej6rMC9GOadEbGEZ5jDARt&_nc_ohc=-RjSHXnVjQQQ7kNvgHxI4yq&_nc_ht=scontent.fktm8-1.fna&oh=00_AYDuIeHq4ptZxpv_m8g6kF5lYCKMVzAuEf7gyEk_UC5V9Q&oe=66DBC717"/>
+        <div>
+            <h1>SAMRAT PANDEY</h1>
         </div>
     </header>
     <section class="profile-info">
