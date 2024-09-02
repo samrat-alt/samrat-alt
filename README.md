@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         GitHub Profile
-    <link rel="stylesheet" href="styles.css">
+   <style>
+       h1{
+           color: maroon;
+           margin-left: 40px;
+           }
+   </style>
 </head>
 <body>
     <header>
