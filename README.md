@@ -4,14 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
         GitHub Profile
-   <style>
+   
+</head>
+<body>
+    <style>
        sam{
            color: red;
            
            }
    </style>
-</head>
-<body>
     <header>
         <div class="sam">
             <h1>SAMRAT PANDEY</h1>
