@@ -9,9 +9,9 @@
 <body>
     
     <header>
-        <div class="sam">
+        
             <h1>SAMRATPANDEY</h1>
-        </div>
+      
     </header>
     <section class="profile-info">
         <div class="profile-section">
