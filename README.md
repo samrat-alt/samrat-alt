@@ -10,7 +10,7 @@
     
     <header>
         <div class="sam">
-            <h1>SAMRAT PANDEY</h1>
+            <h1>SAMRATPANDEY</h1>
         </div>
     </header>
     <section class="profile-info">
